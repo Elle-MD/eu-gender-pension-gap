@@ -6,13 +6,13 @@
 ## 🔄Current status
  Work in progress
 
-    ### ✅ Completed
-    - Dataset 1: Eurostat_Population by age group and sex (demo_pjangroup): cleaned, explored and visualised in PowerBI
-  
-    ### 🗂️ Next datasets 
-   - gender pay gap (Eurostat earn_gr_gpgr2) 
-   - gender pension gap (Eurostat ilc_pnp3)
-   - others tbd
+### ✅ Completed
+- Dataset 1: Eurostat_Population by age group and sex (demo_pjangroup): cleaned, explored and visualised in PowerBI
+
+### 🗂️ Next datasets 
+- gender pay gap (Eurostat earn_gr_gpgr2) 
+- gender pension gap (Eurostat ilc_pnp3)
+- others tbd
     
 ## 🛠️ Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -25,7 +25,7 @@ The first step was to explore the female older population in the EU: its size, h
 
 <img width="1207" height="701" alt="Population_main indicators" src="https://github.com/user-attachments/assets/a748d14d-fb6c-4b0e-a1e4-91dabeb42ed0" />
 
-*Figure 1: Distribution of population aged 55+ by sex across EU27*
+*Figure 1: Main population indicators across EU27*
 
 <img width="1367" height="792" alt="Population_trend by age category" src="https://github.com/user-attachments/assets/b83413fa-1703-4be5-b54d-8642226c27b0" />
 
