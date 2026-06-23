@@ -1,5 +1,7 @@
 # 🇪🇺 Gender Pension Gap in the EU
 
+Follow the analysis also on LinkedIn: https://www.linkedin.com/in/elena-maria-d/?skipRedirect=true.
+
 ## 🎯 Project
 - Analysing the gender pension gap across EU27 countries using Eurostat data
 
@@ -9,10 +11,8 @@
 ### ✅ Completed
 - Dataset 1: Eurostat_Population by age group and sex (demo_pjangroup): cleaned, explored and visualised in PowerBI
 
-### 🗂️ Next datasets 
-- gender pay gap (Eurostat earn_gr_gpgr2) 
+### 🗂️ Next dataset
 - gender pension gap (Eurostat ilc_pnp3)
-- others tbd
     
 ## 🛠️ Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -37,5 +37,4 @@ The first step was to explore the female older population in the EU: its size, h
 
 ## 📁 Data sources
 - [Population by age group and sex (demo_pjangroup)](https://ec.europa.eu/eurostat/databrowser/view/demo_pjangroup/default/table)
-- [Gender pay gap (earn_gr_gpgr2)](https://ec.europa.eu/eurostat/databrowser/view/earn_gr_gpgr2/default/table) *(upcoming)*
 - [Gender pension gap (ilc_pnp3)](https://ec.europa.eu/eurostat/databrowser/view/ilc_pnp3/default/table) *(upcoming)*
