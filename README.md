@@ -12,7 +12,7 @@ Follow the analysis also on LinkedIn: https://www.linkedin.com/in/elena-maria-d/
 - Dataset 1: Eurostat_Population by age group and sex (demo_pjangroup): cleaned, explored and visualised in PowerBI
 
 ### 🗂️ Next dataset
-- gender pension gap (Eurostat ilc_pnp3)
+- gender pension gap (Eurostat ilc_pnp13)
     
 ## 🛠️ Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -37,4 +37,4 @@ The first step was to explore the female older population in the EU: its size, h
 
 ## 📁 Data sources
 - [Population by age group and sex (demo_pjangroup)](https://ec.europa.eu/eurostat/databrowser/view/demo_pjangroup/default/table)
-- [Gender pension gap (ilc_pnp3)](https://ec.europa.eu/eurostat/databrowser/view/ilc_pnp3/default/table) *(upcoming)*
+- [Gender pension gap (ilc_pnp13)](https://ec.europa.eu/eurostat/databrowser/view/ilc_pnp13/default/table?lang=en) *(upcoming)*
