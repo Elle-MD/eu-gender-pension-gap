@@ -33,7 +33,7 @@ The first step was to explore the female older population in the EU: its size, h
 
 <img width="1382" height="792" alt="Population_country differences" src="https://github.com/user-attachments/assets/6a6572f2-e526-4b7a-b429-985dc7094951" />
 
-*Figure 3: Differences of female population aged 85+ by country*
+*Figure 3: Differences in female population aged 85+ by country*
 
 ## 📁 Data sources
 - [Population by age group and sex (demo_pjangroup)](https://ec.europa.eu/eurostat/databrowser/view/demo_pjangroup/default/table)
