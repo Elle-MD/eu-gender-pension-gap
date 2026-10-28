@@ -20,7 +20,7 @@ Work in progress — two stages completed.
    - Examined the female population in older age groups, demographic trends and differences between EU countries.
    - Developed Power BI visualisations.
 
-   *Notebooks: [population_data_familiarisation](01.demo_pjangroup_eu27_V2_familiarisation.ipynb); [population_data_cleaning](01.demo_pjangroup_eu27_V2_cleaning_process.ipynb); [population_data_analysis](01.demo_pjangroup_eu27_V2_analysis.ipynb)*
+   *Notebooks: [population_data_familiarisation](01.demo_pjangroup__eu27_V2_familiarisation.ipynb); [population_data_cleaning](01.demo_pjangroup__eu27_V2_cleaning_process.ipynb); [population_data_analysis](01.demo_pjangroup__eu27_analysis.ipynb)*
 
 2. **Average and median gender pension gaps (Eurostat ilc_pnp13 & ilc_pnp13m)**
 
